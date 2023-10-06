@@ -1,4 +1,4 @@
-# homework-submission-backend      
+# homework-submission-frontend       
 - 后端地址 https://github.com/LYuYang61/homework-submission-backend
 - 前端地址 https://github.com/LYuYang61/homework-submission-frontend
 
